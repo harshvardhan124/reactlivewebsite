@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+.navbar{
+    background-color: #ffffff !important;
+}
+.nav_bg{
+    background-color: #ffffff !important;
+}
+.nav-link{
+    color: black !important;
+}
+.nav-link:hover{
+    color: #00d5ff !important;
+}
+
+.navbar-brand{
+ font-size: 1.9rem !important;
+ color: #565387 !important;
+ font-weight: bold;
+ text-decoration: none !important;
+}
+.navbar a{
+    text-transform: capitalize;
+}
+.menu_active{
+    font-weight: bold;
+    border-bottom:1px solid #565387;
+}
+.active{
+    font-weight: bold !important;
+    border-bottom:1px solid #565387 !important;
+}
+.brand-name{
+    color: #026a7f;
+    font-weight: 300;
+}
+@keyframes slideIn {
+    0% {
+      transform: translateY(-4px); /* Start off the screen (above) */
+    }
+    50%{
+        transform: translateY(0%);
+    }
+    100% {
+      transform: translateY(-4px); /* Move down along the Y-axis to the original position */
+    }
+  }
+  
+  .animated {
+    animation: slideIn 4s ease-in-out infinite;
+    animation-fill-mode: both;
+   
+    
+  }
+.para{
+    font-weight: lighter;
+    font-size: 22px;
+    text-align: left; 
+}
+.heading1{
+    font-size: 32px;
+    text-align: left; 
+}
+.contact_div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 13px;
+    font-size: 19px;
+    
+    width: 100vw;
+    
+}
+.contact_div input,textarea{
+    font-size: 19px;
+    
+}
+.form-control{
+    font-size: 19px !important;
+    resize: none;
+    
+}
+.submit-btn{
+    margin-top: 15px !important;
+    text-align: center;
+}
