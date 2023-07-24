@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.a3c3df7b.css",
+    "main.js": "/reactlivewebsite/static/js/main.316898e2.js",
+    "static/media/2.png": "/reactlivewebsite/static/media/2.fa7f5c25a115e4d303a8.png",
+    "static/media/1.jpg": "/reactlivewebsite/static/media/1.4ffb2d91cb4c2e7fc264.jpg",
+    "static/media/4.jpg": "/reactlivewebsite/static/media/4.4ce5993a9b33650c41ce.jpg",
+    "static/media/3.png": "/reactlivewebsite/static/media/3.0267af9236864aec12e6.png",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.a3c3df7b.css.map": "/reactlivewebsite/static/css/main.a3c3df7b.css.map",
+    "main.316898e2.js.map": "/reactlivewebsite/static/js/main.316898e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3c3df7b.css",
+    "static/js/main.316898e2.js"
+  ]
+}
